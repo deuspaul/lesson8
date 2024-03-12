@@ -1,9 +1,5 @@
 {
-  "name": "@deuspaul/lesson8",
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/deuspaul/lesson8.git"
-  },
+  "name": "lesson8",
   "version": "1.1.0",
   "description": "demo application for the GitHub Actions Workshop",
   "main": "index.js",
