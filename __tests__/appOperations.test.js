@@ -11,3 +11,7 @@ test("adding two values", ()=> {
 test("test subtraction", ()=> {
     expect(appOperations.subtract(4,2)).toBe(2);
 })
+
+test("test divide", ()=> {
+  expect(appOperations.divide(20,5)).toBe(4);
+})
